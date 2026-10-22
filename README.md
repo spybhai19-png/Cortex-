@@ -1,2 +1,0 @@
-# Cortex-
-index.html
